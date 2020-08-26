@@ -26,8 +26,12 @@ The player can:
 - Enjoy an expanded economic system
 
 
-## Wireframes
+## Mobile Wireframes
+![Mobile Wireframes](./docs/MobileWireframes.png)
+
+## Desktop Wireframes
 ![Wireframes](./docs/Wireframes.png)
+
 
 
 ## Component Heirarchy
