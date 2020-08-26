@@ -7,12 +7,12 @@
     transition: 0.15s;
 }
 
-.header-button {
-    @apply bg-gray-200 border-gray-400 rounded-sm p-1 m-1;
+.base-button {
+    @apply p-1 m-1 rounded;
 }
 
-.header-button:hover {
-    @apply shadow bg-gray-100 rounded-sm;
+.base-button:hover {
+    @apply shadow;
 }
 
 /* purgecss end ignore */
