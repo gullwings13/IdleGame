@@ -609,6 +609,7 @@ video {
 
 *{
   transition: 0.15s;
+  /* border: 1px pink solid; */
 }
 
 .base-button {
